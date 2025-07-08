@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Tidrow's Workbench: Welcome to Tidrow's GitHub
 ---
